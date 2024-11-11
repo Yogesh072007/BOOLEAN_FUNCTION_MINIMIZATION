@@ -41,7 +41,8 @@ Developed by:A.yogesh kuamr RegisterNumber:24003226
 
 **RTL realization**
 
-**Output:**![Screenshot 2024-11-11 132508](https://github.com/user-attachments/assets/656d4b3c-232d-4680-afcc-dd0529cd42e9)
+**Output:**![Screenshot 2024-11-11 132156](https://github.com/user-attachments/assets/ff3af9ed-2093-4859-b7f4-5c02028f702c)
+
 
 
 **RTL**![Screenshot 2024-11-11 132508](https://github.com/user-attachments/assets/d568f6c1-e9db-481a-a632-b61696036c4f)
